@@ -25,7 +25,7 @@ int main()
     }
     if ( marks < 40)
     {
-        cout<<"The student fails in the exam ";
+        cout<<"The student fails in the exam";
     }
 
     return 0;
